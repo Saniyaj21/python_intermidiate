@@ -1,3 +1,5 @@
+# dictionary: ordered
+
 myDict = {"name": "Saniyaj", "AGE": 22}
 print(myDict)
 
